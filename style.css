@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cards {
+width: 205px;
+height: 165px;
+position: relative;
+}
+.card-1 {
+position: absolute;
+top: 30px;
+left: 500px;
+width: 205px;
+height: 165px;
+}
+
+.card-2 {
+    position: absolute;
+top: 30px;
+left: 750px;
+width: 205px;
+height: 165px;
+}
+
+.card-3 {
+    position: absolute;
+    top: 30px;
+    left: 1000px;
+    width: 205px;
+    height: 165px;
+}
+
+.card-4 {
+    position: absolute;
+    top: 30px;
+    left: 1250px;
+    width: 205px;
+    height: 165px;
+}
+
+.new {
+    position: relative;
+}
+
+.new-1 {
+    width: 205px;
+    height: 165px;
+    position: absolute;
+    top: 260px;
+    left: 500px;
+}
+.new-2 {
+    width: 205px;
+    height: 165px;
+    position: absolute;
+    top: 260px;
+    left: 750px;
+}
+.new-3 {
+    width: 205px;
+    height: 165px;
+    position: absolute;
+    top: 260px;
+    left: 1000px;
+}
+.new-4 {
+    width: 205px;
+    height: 165px;
+    position: absolute;
+    top: 260px;
+    left: 1250px;
+}
